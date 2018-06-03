@@ -1,4 +1,4 @@
-# CKAN to DSpace 3 Migration Tool
+# CKAN to DSpace Migration Tool
 
 ## Prerequisites
 
