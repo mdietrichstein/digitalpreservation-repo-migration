@@ -43,4 +43,4 @@ Lists the public contents of the configured dspace repository.
 
 **migrate-ckan-to-dspace**
 
-Migrate the configured ckan repository to dspace.
+Migrate the configured ckan repository to dspace. This command assumes that the dspace repository contains at least one community.
